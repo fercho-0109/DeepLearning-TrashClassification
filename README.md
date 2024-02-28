@@ -27,8 +27,8 @@ https://git-scm.com/download/win
 - then use: python -m ipykernel --name=TrashCassification
 - Now associate the environment with a jupyter notebook. So open jupyter using: jupyter notebook, and select TrashCassification directory. Then associate the environment as show in the image
 ![image](https://github.com/fercho-0109/TrashClassification/assets/40362695/2b853119-4011-4c9b-8141-3a8a88e539e5)
-### 2. How to install Tensorflow for Deep Learning 
-!pip install tensorflow opencv-python matplotlib scikit-learn. this line is already included in the code 
+### 3. How to install Tensorflow for Deep Learning 
+!pip install tensorflow opencv-python matplotlib scikit-learn. **this line is already included in the code** 
 
 # Prerequisites
 - The code was created and tested on the Matlab/Simulink 2023a environment
