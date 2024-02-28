@@ -19,11 +19,16 @@ To check, open the command prompt and run: jupyter notebook.
 https://git-scm.com/download/win  
 - Install the 64-bit Git for Windows
 - Once installed clone this repository using the  command prompt and the code: git clone ........  
-Environment creation 
+**Environment creation** 
 - Open the command prompt and go to the directory TrashClassification: cd TrashClassification
-- Create the environment with: python -m venv TrashCassification
-- Activate the environment with: .\TrashCassification\Scripts\activate
-- Now associate the env with a jupyter notebook 
+- Create the environment using: python -m venv TrashCassification
+- Activate the environment using: .\TrashCassification\Scripts\activate
+- Install ipykernel using: pip install ipykernel
+- then use: python -m ipykernel --name=TrashCassification
+- Now associate the environment with a jupyter notebook. So open jupyter using: jupyter notebook, and select TrashCassification directory. Then associate the environment as show in the image
+![image](https://github.com/fercho-0109/TrashClassification/assets/40362695/2b853119-4011-4c9b-8141-3a8a88e539e5)
+### 2. How to install Tensorflow for Deep Learning 
+!pip install tensorflow opencv-python matplotlib scikit-learn. this line is already included in the code 
 
 # Prerequisites
 - The code was created and tested on the Matlab/Simulink 2023a environment
