@@ -31,7 +31,8 @@ https://git-scm.com/download/win
 !pip install tensorflow opencv-python matplotlib scikit-learn. **this line is already included in the code** 
 
 ## Classes 
-![image](https://github.com/fercho-0109/TrashClassification/assets/40362695/2e38a2a8-7e9a-4ae7-bd94-83a14d592f07)
+![image](https://github.com/fercho-0109/TrashClassification/assets/40362695/2e38a2a8-7e9a-4ae7-bd94-83a14d592f07)  
+
 0. cardboard 
 1. glass
 2. metal,
