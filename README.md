@@ -51,7 +51,10 @@ Download the respective folder called Quanser_simulation. Then, open the Quanser
 - First, run "**Main_tracking_using_dyn_lin_Quanser.m**". To configure the parameters.
 - Second, open and run the Simulink file "**Tracking_with_dynamic_lin.slx**" Then, the robot in the simulator should start to move and follow the trajectory that is the red line in the environment. If the connection with the simulator fails, close the simulator and open it again.
 
-# Example 
+# Results 
+Here we can see the confusion matrix.  
+![image](https://github.com/fercho-0109/TrashClassification/assets/40362695/9baa06aa-6d9f-4d15-83a1-c20e5b18e5cb)
+
 
 
 
