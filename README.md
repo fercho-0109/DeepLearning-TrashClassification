@@ -5,7 +5,7 @@ Master's student "Calabria University".
 For any questions or suggestions write to alexismarino0109@gmail.com
 
 # Sumary.
-This repository contains a machine learning project showcasing the application of convolutional neural networks for the accurate classification of six distinct trash categories: "paper, cardboard, glass, metal, plastic, and common trash." The model achieves impressive performance metrics, with precision at 97%, recall at 95%, and an overall accuracy of 81%. The project was meticulously developed in Jupyter using Python, with Tensorflow and Keras serving as the primary libraries.  
+This repository contains a machine learning project showcasing the application of convolutional neural networks for the accurate classification of six distinct trash categories: "Paper, Cardboard, Glass, Metal, Plastic, and Common trash." The model achieves impressive performance metrics, with precision at 97%, recall at 95%, and an overall accuracy of 81%. The project was meticulously developed in Jupyter using Python, with Tensorflow and Keras serving as the primary libraries.  
 The Dataset was obtained from the following dataset repositories  
 https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2  
 https://github.com/garythung/trashnet
@@ -18,8 +18,12 @@ To check, open the command prompt and run: jupyter notebook.
 ### 2. Environment creation workflow and Git install
 https://git-scm.com/download/win  
 - Install the 64-bit Git for Windows
-- Once installed clone this repository using the  command prompt and : git clone ........
-
+- Once installed clone this repository using the  command prompt and the code: git clone ........  
+Environment creation 
+- Open the command prompt and go to the directory TrashClassification: cd TrashClassification
+- Create the environment with: python -m venv TrashCassification
+- Activate the environment with: .\TrashCassification\Scripts\activate
+- Now associate the env with a jupyter notebook 
 
 # Prerequisites
 - The code was created and tested on the Matlab/Simulink 2023a environment
