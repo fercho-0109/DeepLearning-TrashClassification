@@ -13,7 +13,7 @@ https://github.com/garythung/trashnet
 # Get started from scratch to use this ML model
 ### 1. Install Python and Jupyter with Anaconda  
 https://www.anaconda.com/download  
-Please, make sure that you check Add Anaconda3 to the system PATH when you install the program.
+Please, make sure that you check Add Anaconda3 to the system PATH when you install the program.  
 To check, open the command prompt and run: jupyter notebook.  
 ### 2. Environment creation workflow and Git install
 https://git-scm.com/download/win  
