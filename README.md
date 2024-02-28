@@ -18,7 +18,7 @@ To check, open the command prompt and run: jupyter notebook.
 ### 2. Environment creation workflow and Git install
 https://git-scm.com/download/win  
 - Install the 64-bit Git for Windows
-- Once installed clone this repository using the  command prompt and the code: git clone https://github.com/fercho-0109/TrashClassification/tree/main 
+- Once installed clone this repository using the  command prompt and the code: git clone https://github.com/fercho-0109/TrashClassification/tree/main   
 **Environment creation** 
 - Open the command prompt and go to the directory TrashClassification: cd TrashClassification
 - Create the environment using: python -m venv TrashCassification
