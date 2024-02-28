@@ -40,7 +40,7 @@ https://git-scm.com/download/win
 4. plastic
 5. trash  
 # Simulations 
-Here we can see how the Loss and Acurrancy evolve over the training  
+Here we can see how the Loss and Acurrancy evolving over the training  
 ![image](https://github.com/fercho-0109/TrashClassification/assets/40362695/108315d5-2530-4901-8cbc-e5fdcac16e32)  
 Here we can see the confusion matrix.  
 ![image](https://github.com/fercho-0109/TrashClassification/assets/40362695/9baa06aa-6d9f-4d15-83a1-c20e5b18e5cb) 
